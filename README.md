@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THARINDUnirmal
+- 👋 Hi, I’m Thrindu Nirmal
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Dart
 - 
