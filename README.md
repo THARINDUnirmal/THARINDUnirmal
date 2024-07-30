@@ -7,6 +7,7 @@
 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br>
 
  ✔ I’m currently learning **JAVA and Flutter**<br>
  ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
