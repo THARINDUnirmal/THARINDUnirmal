@@ -11,7 +11,7 @@
 
  ✔ I’m currently learning **JAVA and Flutter**<br>
  ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
- ✔ How to reach me **tharindunirmal244@gmail.com** <br>
+ ✔ How to reach me **tharindunirmal1111@gmail.com** <br>
  ✔ Fun fact **Call me as Apex**<br>
 
 <h3 align="left">Connect with me:</h3>
