@@ -14,12 +14,11 @@
 
 <br>
 
-<a href="https://github.com/THARINDUnirmal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.linkedin.com/in/tharindu-nirmal-b15379338">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-
-<a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-00E6A7?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<a href="https://personal-portfolio-nextjs-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </td>
