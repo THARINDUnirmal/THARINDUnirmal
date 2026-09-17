@@ -222,7 +222,6 @@ A modern movie discovery application designed around an engaging and intuitive u
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
----
 
 # 🎯 Currently Building & Learning
 
@@ -236,28 +235,6 @@ A modern movie discovery application designed around an engaging and intuitive u
 |    🎨 UI/UX    | Figma & Design Systems                   |
 |   🔐 Security  | Authentication & JWT                     |
 |    ☁️ Cloud    | Firebase & Backend Integration           |
-
-</div>
-
----
-
-# 📈 My Development Journey
-
-<div align="center">
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Build Something Better
-```
 
 </div>
 
