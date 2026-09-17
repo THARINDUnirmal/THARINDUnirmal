@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm **Tharindu Nirmal**
 
-### Software Engineering Undergraduate | Flutter Developer | Full-Stack Developer
+### Software Engineering Undergraduate | Flutter Developer |<br> Full-Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E6A7&left=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;Flutter+%7C+Dart+Mobile+Development;Java+%7C+Spring+Boot+Backend;Full-Stack+Application+Development;UI%2FUX+%7C+Clean+%26+Modern+Interfaces;Always+Learning.+Always+Building." alt="Typing Animation"/>
 
